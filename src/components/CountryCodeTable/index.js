@@ -15,6 +15,7 @@ import { Row, Table, Button } from 'react-bootstrap'
   feature 2: ascending and Descending order of showing list   
   feature 3: search function 
 
+
   feature 1: 
     the state will have end number which allows determining where to stop showing the array. 
     so I can use slice() to limit the array before use .map()
